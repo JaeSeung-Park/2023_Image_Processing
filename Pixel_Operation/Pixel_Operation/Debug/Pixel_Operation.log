@@ -1,0 +1,9 @@
+﻿  소스.c
+C:\Users\wlsgk\OneDrive\바탕 화면\Pixel_Operation\Pixel_Operation\소스.c(34,26): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Pixel_Operation\Pixel_Operation\소스.c(34,20): warning C4101: 'R' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Pixel_Operation\Pixel_Operation\소스.c(34,12): warning C4101: 'Cb' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Pixel_Operation\Pixel_Operation\소스.c(34,32): warning C4101: 'Diff_Y' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Pixel_Operation\Pixel_Operation\소스.c(34,29): warning C4101: 'I' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Pixel_Operation\Pixel_Operation\소스.c(34,23): warning C4101: 'G' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Pixel_Operation\Pixel_Operation\소스.c(34,16): warning C4101: 'Cr' :참조되지 않은 지역 변수입니다.
+  Pixel_Operation.vcxproj -> C:\Users\wlsgk\OneDrive\바탕 화면\Pixel_Operation\Debug\Pixel_Operation.exe
