@@ -1,0 +1,4 @@
+﻿  소스.c
+C:\Users\pjs46\OneDrive\바탕 화면\Assignment2\소스.c(107,32): warning C4101: 'Diff_Y' :참조되지 않은 지역 변수입니다.
+C:\Users\pjs46\OneDrive\바탕 화면\Assignment2\소스.c(107,29): warning C4101: 'I' :참조되지 않은 지역 변수입니다.
+  Assignment2.vcxproj -> C:\Users\pjs46\OneDrive\바탕 화면\Assignment2\Debug\Assignment2.exe
