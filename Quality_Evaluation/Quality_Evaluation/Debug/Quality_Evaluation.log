@@ -1,0 +1,9 @@
+﻿  Quality_Evaluation.c
+C:\Users\wlsgk\OneDrive\바탕 화면\Quality_Evaluation\Quality_Evaluation\Quality_Evaluation.c(39,26): warning C4101: 'B' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Quality_Evaluation\Quality_Evaluation\Quality_Evaluation.c(39,20): warning C4101: 'R' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Quality_Evaluation\Quality_Evaluation\Quality_Evaluation.c(39,12): warning C4101: 'Cb' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Quality_Evaluation\Quality_Evaluation\Quality_Evaluation.c(39,32): warning C4101: 'Diff_Y' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Quality_Evaluation\Quality_Evaluation\Quality_Evaluation.c(39,29): warning C4101: 'I' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Quality_Evaluation\Quality_Evaluation\Quality_Evaluation.c(39,23): warning C4101: 'G' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Quality_Evaluation\Quality_Evaluation\Quality_Evaluation.c(39,16): warning C4101: 'Cr' :참조되지 않은 지역 변수입니다.
+  Quality_Evaluation.vcxproj -> C:\Users\wlsgk\OneDrive\바탕 화면\Quality_Evaluation\Debug\Quality_Evaluation.exe
