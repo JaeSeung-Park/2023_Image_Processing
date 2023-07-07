@@ -1,0 +1,23 @@
+﻿  Assignment.c
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(433,87): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(434,87): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(435,87): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(438,91): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(439,91): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(440,91): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(443,103): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(444,103): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(445,103): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(448,105): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(449,105): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(450,105): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(455,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(458,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(461,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(465,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(468,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(471,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(475,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(478,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Assignment4\Assignment.c(481,74): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Assignment4.vcxproj -> C:\Users\wlsgk\OneDrive\바탕 화면\Assignment4\Debug\Assignment4.exe
