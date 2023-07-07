@@ -1,0 +1,6 @@
+﻿  Compression.c
+C:\Users\wlsgk\OneDrive\바탕 화면\Compression\Compression\Compression.c(45,19): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned char *'입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Compression\Compression\Compression.c(45,19): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Compression\Compression\Compression.c(46,19): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned char *'입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Compression\Compression\Compression.c(46,19): message : 서식 문자열에서 '%hhd'을(를) 사용하는 것이 좋습니다.
+  Compression.vcxproj -> C:\Users\wlsgk\OneDrive\바탕 화면\Compression\Debug\Compression.exe
