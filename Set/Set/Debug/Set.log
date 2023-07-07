@@ -1,0 +1,15 @@
+﻿  Set.c
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(105,103): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(117,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(122,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(128,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(132,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(141,38): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(146,38): warning C4244: '=': 'double'에서 'unsigned char'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(159,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(164,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(177,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(181,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(195,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Set\Set\Set.c(200,15): warning C4244: '함수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Set.vcxproj -> C:\Users\wlsgk\OneDrive\바탕 화면\Set\Debug\Set.exe
