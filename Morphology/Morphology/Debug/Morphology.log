@@ -1,0 +1,7 @@
+﻿  Morphology.c
+C:\Users\wlsgk\OneDrive\바탕 화면\Morphology\Morphology\Morphology.c(84,49): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\wlsgk\OneDrive\바탕 화면\Morphology\Morphology\Morphology.c(130,49): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\wlsgk\OneDrive\바탕 화면\Morphology\Morphology\Morphology.c(191,49): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\wlsgk\OneDrive\바탕 화면\Morphology\Morphology\Morphology.c(45,13): warning C4101: 'Gy' :참조되지 않은 지역 변수입니다.
+C:\Users\wlsgk\OneDrive\바탕 화면\Morphology\Morphology\Morphology.c(45,9): warning C4101: 'Gx' :참조되지 않은 지역 변수입니다.
+  Morphology.vcxproj -> C:\Users\wlsgk\OneDrive\바탕 화면\Morphology\Debug\Morphology.exe
